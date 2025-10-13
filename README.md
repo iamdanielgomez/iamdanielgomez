@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋  Daniel Gomez✨ </h1> 
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -12,7 +12,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓<ul>
+<ul>
   <li>🏫 Soy estudiante de <strong>noveno semestre de la Licenciatura en Ciencias Computacionales</strong> en la <strong>Facultad de Ciencias Físico-Matemáticas (UANL)</strong>.</li>
   <li>🔭 Actualmente estoy trabajando en <strong>proyectos pequeños de SQL</strong>.</li>
   <li>🌱 Estoy aprendiendo <strong>Frontend</strong> y <strong>Análisis de Datos (Data Analyst)</strong>. 🧠💻🤖</li>
