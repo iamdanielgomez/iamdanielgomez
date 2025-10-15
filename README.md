@@ -31,6 +31,9 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  ![PowerPoint](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+  ![Word](https://img.shields.io/badge/Word-0000FF?style=for-the-badge&logo=microsoftword&logoColor=white)
+
 - 🧠 &nbsp;
   ![Frontend](https://img.shields.io/badge/Frontend-6C63FF?style=for-the-badge&logo=react&logoColor=white)
   ![Data Analyst](https://img.shields.io/badge/Data_Analyst-008080?style=for-the-badge&logo=tableau&logoColor=white)
