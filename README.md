@@ -36,20 +36,15 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Skills👨🏻‍💻</h2>
 
 //Pendiente [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 </td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+
 
 </p>        
 <!--- stats (end) -->
