@@ -37,7 +37,7 @@
 
 <br/>
 
-<h3> 🚀 &nbsp;Algunos proyectos destacados</h3>
+<h2> 🚀 &nbsp;Algunos proyectos destacados</h2>
 
 - 🎯 **[Sistema de Gestión SQL para la Facultad](https://github.com/DanielGomez/sql-management-project)**  
   Desarrollo de base de datos relacional con consultas optimizadas y vistas personalizadas.  
