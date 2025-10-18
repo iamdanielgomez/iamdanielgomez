@@ -56,6 +56,20 @@
 
 <br/>
 
+<br/>
+
+<h2> 🚀 &nbsp;Insignias</h2>
+
+- 🎯 **[AWS Cloud Club Core Team](https://www.credly.com/badges/6719821f-8b63-4eff-96f9-cdb739baae89/public_url)**  
+  ¡Bienvenido al equipo principal de AWS Cloud Club! Esta insignia ofrece reconocimiento oficial a los miembros del equipo principal de AWS Cloud Club.  
+  *Habilidades:*  Construccion comunicativa, Organizacion y liderazgo y Compromiso Estudiantil.
+- 🎯 **[Python Programming with Red Hat (AD141 - RHA) - Ver. 9.0](https://www.credly.com/badges/20782238-d38c-4626-9668-851a1e7f6918/public_url)**  
+  Esta credencial verifica la asistencia al curso de Programación en Python con Red Hat (AD141) a través de Red Hat Academy. Tras completar el curso, se recomienda a los estudiantes cursar el curso de Automatización de Red Hat Enterprise Linux con Ansible (RH294).  
+  *Habilidades:*  JSON, Python, Red Hat, Red Hat Academy, Red Hat Ansible Automation Plataform y Red Hat Enterprise Linux.
+  
+<br/>
+
+
 <h3> 🤝🏻 &nbsp;Conecta conmigo </h3>
 
 <p align="center">
