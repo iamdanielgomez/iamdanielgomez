@@ -67,7 +67,9 @@
 - 🎖️ **[Python Programming with Red Hat (AD141 - RHA) - Ver. 9.0](https://www.credly.com/badges/20782238-d38c-4626-9668-851a1e7f6918/public_url)**  
   Esta credencial verifica la asistencia al curso de Programación en Python con Red Hat (AD141) a través de Red Hat Academy. Tras completar el curso, se recomienda a los estudiantes cursar el curso de Automatización de Red Hat Enterprise Linux con Ansible (RH294).  
   *Habilidades:*  JSON, Python, Red Hat, Red Hat Academy, Red Hat Ansible Automation Plataform y Red Hat Enterprise Linux.
-  
+- 📜 **[Examen de Competencia en Inglés EXCI]()**  
+  El EXCI (Examen de Competencia en Inglés) de la UANL es una evaluación desarrollada por la universidad y el Consejo Británico para medir el dominio del inglés en estudiantes de licenciatura y posgrado.  
+  *Habilidades:*  Comprensión lectora, comprensión auditiva, gramática y vocabulario, producción escrita.  
 <br/>
 
 
@@ -78,19 +80,8 @@
 <a href="mailto:danielgomez.dev01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/DanielGomez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 </p>
-
 <br/>
 
-<p align="center">
-  <img alt="Daniel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=DanielGomez&theme=tokyonight&show_icons=true&count_private=true" />
-  <img alt="Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomez&layout=compact&theme=tokyonight" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="250" alt="fun_gif"/>
-</p>
 
 ---
 
