@@ -41,6 +41,15 @@
 
 <br/>
 
+<h2> 🌐 &nbsp;Idiomas</h2>
+
+- Español: Nativo
+
+- Inglés: Basico – A2 (En aprendizaje)
+  
+- Portugués: Básico – A2 (En aprendizaje)
+<br/>
+
 <h2> 🚀 &nbsp;Algunos proyectos destacados</h2>
 
 - 🎯 **[Sistema de Gestión SQL para la Facultad](https://github.com/DanielGomez/sql-management-project)**  
