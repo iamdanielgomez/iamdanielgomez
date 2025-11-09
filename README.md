@@ -78,7 +78,9 @@
   *Habilidades:*  JSON, Python, Red Hat, Red Hat Academy, Red Hat Ansible Automation Plataform y Red Hat Enterprise Linux.
 - 📜 **[Examen de Competencia en Inglés EXCI]()**  
   El EXCI (Examen de Competencia en Inglés) de la UANL es una evaluación desarrollada por la universidad y el Consejo Británico para medir el dominio del inglés en estudiantes de licenciatura y posgrado.  
-  *Habilidades:*  Comprensión lectora, comprensión auditiva, gramática y vocabulario, producción escrita.  
+  *Habilidades:*  Comprensión lectora, comprensión auditiva, gramática y vocabulario, producción escrita.
+
+- 📜 **[Ver Mas Insignias y Certificaciones](https://www.canva.com/design/DAG4KTsTV84/7141pTZu7gANAWJLkhYyEw/view?utm_content=DAG4KTsTV84&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6f5bc77c39)**  
 <br/>
 
 
