@@ -54,9 +54,9 @@
 
 <h2> 🚀 &nbsp;Algunos proyectos destacados</h2>
 
-- 🎯 **[Sistema de Gestión SQL para la Facultad](https://github.com/DanielGomez/sql-management-project)**  
-  Desarrollo de base de datos relacional con consultas optimizadas y vistas personalizadas.  
-  *Tecnologías:* MySQL, SQL Server, Power BI, Python  
+- 🎯 **[App de Cajero Automatico con Python](https://github.com/iamdanielgomez/App-de-Cajero-Automatico-con-Python.git)**  
+  Programa en Python que simula un cajero automático con un menú interactivo. Permite realizar depósitos, retiros y consultar el saldo inicial de $1000. Ideal para practicar estructuras   de control, manejo de entradas y lógica básica de operaciones bancarias.
+  **Tecnologías:* Python*  
 
 - 💻 **[Dashboard de Visualización de Datos en Power BI](https://github.com/DanielGomez/powerbi-dashboard)**  
   Dashboard interactivo para análisis de datos académicos y rendimiento estudiantil.  
