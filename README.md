@@ -4,13 +4,12 @@
 
 <h2> 👨‍💻 &nbsp;Sobre mí </h2>
 
-- 🏫 Soy estudiante de **noveno semestre de Ciencias Computacionales** en la **Facultad de Ciencias Físico-Matemáticas (UANL)**  
-- 🔭 Actualmente trabajando en **proyectos pequeños de SQL**  
-- 🌱 Aprendiendo **Frontend** y **Análisis de Datos (Data Analyst)** 🧠💻🤖  
-- 💡 Fundador de la **Sociedad Académica de Programadores (FCFM-UANL)**, con impacto dentro de la facultad y la UANL  
-- 💬 Pregúntame sobre **algoritmos, programación y análisis de datos** 📊📈  
-- 😄 Pronombres: Él  
-- ⚡ Me encanta la creatividad, soy curioso y resiliente ante cualquier situación ✨  
+- 🏫 **Estudiante de 9° semestre de Ciencias Computacionales** en la Facultad de Ciencias Físico-Matemáticas (UANL), con especial interés en el desarrollo y la analítica.
+- 🔭 **Desarrollando proyectos en SQL**, enfocándome en optimización, consultas avanzadas y manejo de datos. 
+- 🌱 En formación continua en **Frontend y Análisis de Datos**, integrando herramientas modernas para construir soluciones funcionales e inteligentes. 
+- 💡 **Fundador de la Sociedad Académica de Programadores (FCFM-UANL)**, un proyecto estudiantil con impacto positivo dentro de la facultad y la universidad, impulsando la comunidad tecnológica.
+- 💬 **Apasionado por la enseñanza**, puedo apoyarte en conceptos básicos de Metodología de la Programación, Python, Estructura de Datos y SQL.  
+- ⚡ Me caracterizo por ser **creativo, curioso y altamente resiliente**, cualidades que aplico para resolver problemas y aprender rápidamente.
 
 <br/>
 
@@ -24,6 +23,8 @@
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Arduino](https://img.shields.io/badge/Arduino-3776AB?style=for-the-badge&logo=Arduino&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/Sharp-800080?style=for-the-badge&logo=c&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/android-008f39?style=for-the-badge&logo=android&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +35,8 @@
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
   ![PowerPoint](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
   ![Word](https://img.shields.io/badge/Word-0000FF?style=for-the-badge&logo=microsoftword&logoColor=white)
-
+  ![Canva](https://img.shields.io/badge/Canva-800080?style=for-the-badge&logo=Canva&logoColor=white)
+  ![CapCut](https://img.shields.io/badge/CapCut-FFFFFF?style=for-the-badge&logo=CapCut&logoColor=white)
 - 🧠 &nbsp;
   ![Frontend](https://img.shields.io/badge/Frontend-6C63FF?style=for-the-badge&logo=react&logoColor=white)
   ![Data Analyst](https://img.shields.io/badge/Data_Analyst-008080?style=for-the-badge&logo=tableau&logoColor=white)
