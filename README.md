@@ -62,9 +62,9 @@
   El código pide nombre, apellidos y empresa, los transforma a minúsculas, elimina espacios y los reemplaza por puntos. Luego construye un correo electrónico usando esos datos y el dominio “.com.mx”. Finalmente imprime el correo generado, aunque actualmente repite los apellidos por un pequeño error en la concatenación.  
   **Tecnologías:* Python* 
 
-- 🌐 **[Portafolio Personal Frontend](https://github.com/DanielGomez/portfolio)**  
-  Sitio web profesional para mostrar proyectos y habilidades.  
-  *Tecnologías:* HTML, CSS, JavaScript  
+- 🌐 **[Generador de Ticket de Venta](https://github.com/iamdanielgomez/Generador-de-Ticket-de-Venta.git)**  
+  El programa solicita al usuario los precios de varios productos y un porcentaje de descuento. Calcula el subtotal, el descuento, el subtotal con descuento, el impuesto del 16% y el costo total. Finalmente muestra un ticket con todos los valores. El cálculo del descuento contiene un error en la fórmula.  
+  **Tecnologías:* Python*
 
 <br/>
 
