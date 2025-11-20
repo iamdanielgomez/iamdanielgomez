@@ -58,9 +58,9 @@
   Programa en Python que simula un cajero automático con un menú interactivo. Permite realizar depósitos, retiros y consultar el saldo inicial de $1000. Ideal para practicar estructuras   de control, manejo de entradas y lógica básica de operaciones bancarias.
   **Tecnologías:* Python*  
 
-- 💻 **[Dashboard de Visualización de Datos en Power BI](https://github.com/DanielGomez/powerbi-dashboard)**  
-  Dashboard interactivo para análisis de datos académicos y rendimiento estudiantil.  
-  *Tecnologías:* Power BI, Excel, SQL  
+- 💻 **[Generador de Email](https://github.com/iamdanielgomez/Generador-de-Email.git)**  
+  El código pide nombre, apellidos y empresa, los transforma a minúsculas, elimina espacios y los reemplaza por puntos. Luego construye un correo electrónico usando esos datos y el dominio “.com.mx”. Finalmente imprime el correo generado, aunque actualmente repite los apellidos por un pequeño error en la concatenación.  
+  **Tecnologías:* Python* 
 
 - 🌐 **[Portafolio Personal Frontend](https://github.com/DanielGomez/portfolio)**  
   Sitio web profesional para mostrar proyectos y habilidades.  
